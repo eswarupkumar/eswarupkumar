@@ -2,8 +2,8 @@
 
 Hey! This is **E Swarup Kumar**, a **tech enthusiast**, who loves to **solve problem using technology** and a **Compute Science Student** from **Silicon Institute of Technology, Bhubaneswar**
 <!-- - 🔭 I’m currently working on Data Structures and Algorithms -->
-- 👨‍💻 I’m currently a SDE intern at [Devathon](https://devathon.com/).
-- 🌱 I’m a web developer and my expertise are MERN, Django and Angular.
+- 👨‍💻 I’m currently an Associate Lead Flutter Developer at [Runo](https://runo.ai/).
+- 🌱 I’m an app developer and my expertise is Flutter & Dart.
 - 👯 I’m looking to collaborate on Web-Dev projects.
 - ✔️ My recently completed project - [Lost & Found](https://lfs-project.herokuapp.com/)
 - 📫 You can reach me through: [LinkedIn](https://www.linkedin.com/in/e-swarup-kumar/)
